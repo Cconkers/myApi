@@ -1,5 +1,5 @@
 {
   "Interesado": {
-    "name": { "loremWord": {"minLength": 5, "maxLength": 9} }
+    "name": { "loremWords": {"minLength": 5, "maxLength": 9} }
   }
 }

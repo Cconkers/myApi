@@ -1,5 +1,5 @@
 {
   "Interesado": {
-    "name": { "regexp": "^([a-zA-Z]{2,}\s[a-zA-Z]{1,}'?-?[a-zA-Z]{2,}\s?([a-zA-Z]{1,})?)" }
+    "name": { "regexp": "^([a-zA-Z]{2,}[a-zA-Z]{1,}'?-?[a-zA-Z]{2,}?([a-zA-Z]{1,})?)" }
   }
 }

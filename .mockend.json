@@ -1,7 +1,7 @@
 {
     "Users": {
-      "name": { "regexp": "[A-Z]([a-z]+|)" },
-      "apellido1": { "regexp": "[A-Z]([a-z]+|)" },
-      "apellido2": { "regexp": "[A-Z]([a-z]+|)" }
+      "name": { "regexp": "[b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy]" },
+      "apellido1": { "regexp": "[b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy]" },
+      "apellido2": { "regexp": "[b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy]" }
     }
   }

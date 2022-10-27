@@ -1,7 +1,3 @@
 {
-    "Interesado": {
-      "name": { "regexp": "[A-Z][a-z]{5,10}" },
-      "apellido1": { "regexp": "[A-Z][a-z]{5,10}" },
-      "apellido2": { "regexp": "[A-Z][a-z]{5,10}" }
-    }
+    "User": { }
   }

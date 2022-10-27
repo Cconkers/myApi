@@ -1,7 +1,7 @@
 {
     "Users": {
-      "name": { "regexp": "[A-Z]([a-z]+|" },
-      "apellido1": { "regexp": "[A-Z]([a-z]+|" },
-      "apellido2": { "regexp": "[A-Z]([a-z]+|" }
+      "name": { "regexp": "[A-Z]([a-z]+|)" },
+      "apellido1": { "regexp": "[A-Z]([a-z]+|)" },
+      "apellido2": { "regexp": "[A-Z]([a-z]+|)" }
     }
   }

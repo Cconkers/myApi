@@ -1,7 +1,5 @@
 {
     "Users": {
-      "name": { "regexp": "[b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy]" },
-      "apellido1": { "regexp": "[b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy]" },
-      "apellido2": { "regexp": "[b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy][b-df-hj-np-tv-z][aeiouy]" }
+      "name": { "regexp": "[b-df-hj-np-tv-z]{1}[aeiouy]{1}[b-df-hj-np-tv-z]{1}[aeiouy]{1}[b-df-hj-np-tv-z]{1}[aeiouy]{1}[b-df-hj-np-tv-z]{1}[aeiouy]{1}" }
     }
   }

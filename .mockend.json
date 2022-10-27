@@ -1,5 +1,5 @@
 {
   "Interesado": {
-    "name": { "regexp": "[A-Z][a-z]{5,10}" }
+    "name": { "regexp": "[aeyiuo][bcdfghjklmnpqrstvwxz][aeyiuo][bcdfghjklmnpqrstvwxz][aeyiuo][bcdfghjklmnpqrstvwxz][aeyiuo][bcdfghjklmnpqrstvwxz]" }
   }
 }

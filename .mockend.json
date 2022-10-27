@@ -1,5 +1,5 @@
 {
   "Interesado": {
-    "name": { "regexp": "[aeyiuo][bcdfghjklmnpqrstvwxz][aeyiuo][bcdfghjklmnpqrstvwxz][aeyiuo][bcdfghjklmnpqrstvwxz][aeyiuo][bcdfghjklmnpqrstvwxz]" }
+    "name": { "regexp": "[aeyiuo]{1}[bcdfghjklmnpqrstvwxz]{1}[aeyiuo]{1}[bcdfghjklmnpqrstvwxz]{1}[aeyiuo]{1}[bcdfghjklmnpqrstvwxz]{1}[aeyiuo][bcdfghjklmnpqrstvwxz]{1}" }
   }
 }
